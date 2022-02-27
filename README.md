@@ -1,2 +1,2 @@
 # heart-attack-ML
- Heart Attack Detection Model Using Machine Learning
+ Heart Attack Detection SVM Model Using Machine Learning
